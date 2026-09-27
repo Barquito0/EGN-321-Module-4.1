@@ -169,4 +169,4 @@ streamlit run app.py
 
 ## Live Streamlit Application
 
-**Deployment URL:** `TO BE ADDED AFTER STREAMLIT COMMUNITY CLOUD DEPLOYMENT`
+**Deployment URL:** https://egn-321-module-41-nwgqqcatuz2gxm4zukphya.streamlit.app/
